@@ -13,4 +13,5 @@ Following a small freecodecamp tutorial for gcp
     - variables.tf (our variables we will use in our provider.tf)
     - A local file terraform.tfvars that will contain the values automatically to be use in variables.tf
 
-- Run terraform init to initialize terraform
+- Run terraform init to initialize terraform and get a state file
+- Run terraform apply
